@@ -1,0 +1,53 @@
+header h1{
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+header img{
+    width: 120px;
+    height: 120px;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+
+.h2{
+    background: linear-gradient(to left,yellow,green);
+    font-size: 45px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+.p{
+    background: linear-gradient(to left,yellow,green);
+    margin-top: 5px;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+ul{
+    background: linear-gradient(to left,yellow,green);
+}
+
+li{
+    font-size: 25px;
+    background: linear-gradient(to left,yellow,green);
+}
+
+main img{
+    width: 350px;
+    height: 250px;
+}
+
+footer a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+    background: linear-gradient(to left,yellow,green);
+    margin: 15px 570px 15px 570px;
+    border-radius: 10px;
+}
