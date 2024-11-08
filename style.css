@@ -25,12 +25,12 @@ img{
         color:white;
         text-decoration: none;
         font-size:16px;
-        padding: 10px 30px;
+        padding: 15px 30px;
         border-radius: 10px;
         display: flex;
         justify-content: center;
         font-size: 50px;
-        margin: 10px 610px 10px 540px;
+        margin: 10px 610px 10px 610px;
 }
 
 .football{
@@ -43,7 +43,7 @@ img{
         display: flex;
         justify-content: center;
         font-size: 50px;
-        margin: 10px 610px 10px 540px;
+        margin: 10px 610px 10px 610px;
 }
 
 .boxing{
@@ -56,7 +56,7 @@ img{
     display: flex;
     justify-content: center;
     font-size: 50px;
-    margin: 10px 610px 10px 540px;
+    margin: 10px 610px 10px 610px;
 }
 
 footer{
@@ -65,7 +65,21 @@ footer{
 }
 
 .basketball{
-    background: linear-gradient(to left,yellow,green);
+        background: linear-gradient(to left,yellow,green);
+        color:white;
+        text-decoration: none;
+        font-size:16px;
+        padding: 15px 30px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        font-size: 50px;
+        margin: 10px 610px 10px 610px;
+}
+
+
+.hockey{
+    background: linear-gradient(to right,purple,pink);
     color:white;
     text-decoration: none;
     font-size:16px;
@@ -74,20 +88,7 @@ footer{
     display: flex;
     justify-content: center;
     font-size: 50px;
-    margin: 10px 610px 10px 540px;
-}
-
-
-.hockey{
-    background: linear-gradient(to right,purple,pink);
-    color:white;
-    text-decoration: none;
-    padding: 15px 30px;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    font-size: 50px;
-    margin: 10px 610px 10px 540px;
+    margin: 10px 610px 10px 610px;
 }
 
 footer img{
@@ -95,7 +96,7 @@ footer img{
     height: 50px;
     align-items: flex-end;
     margin-bottom: 0px;
-    margin-top: 850px;
+    margin-top: 770px;
     padding: 0px;
     margin-left: 20px;
 }
@@ -112,6 +113,6 @@ footer img{
 .omg{
     padding: 0px; 
 }
-div a{
-    width:200px;
-}
+
+
+
