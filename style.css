@@ -13,7 +13,7 @@ header h1{
 }
 
 img{
-    width: 120px;
+    width: 150px;
     height: 100px;
     position: absolute;
     top: -10px;
@@ -59,9 +59,11 @@ img{
     margin: 10px 610px 10px 610px;
 }
 
-footer{
-    background: linear-gradient(to right,red,orange);
-    margin-top: 5px;
+.dav{
+    background: rgb(255,0,253);
+    background: linear-gradient(90deg, rgba(255,0,253,1) 2%, rgba(255,9,9,1) 18%, rgba(255,239,0,1) 32%, rgba(186,0,252,1) 47%, rgba(0,255,238,1) 62%, rgba(255,159,0,1) 81%, rgba(0,212,255,1) 100%);
+    margin-top: 10px;
+    padding-bottom: 29px;
 }
 
 .basketball{
@@ -96,9 +98,9 @@ footer img{
     height: 50px;
     align-items: flex-end;
     margin-bottom: 0px;
-    margin-top: 770px;
+    margin-top: 850px;
     padding: 0px;
-    margin-left: 20px;
+    margin-left: 18px;
 }
 
 .amg{
